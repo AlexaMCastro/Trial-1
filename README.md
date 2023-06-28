@@ -8,8 +8,7 @@
   "age": 17
 }
 ```
-#My thoughts
-**My Thoughts**
+# My thoughts
 - This is great! 😎
 - *Lorena is sitting next to me*
 - **she likes cats**
